@@ -1,0 +1,22 @@
+.body{
+    background-color: #0d0d0d;
+    font-family: "Poppins";
+}
+
+/* Home */
+.home-image-holder {
+    position: relative;
+    display: block;
+}
+
+.home-image-overlay {
+    position: absolute;
+}
+
+.unbounded{
+    font-family: "Unbounded";
+}
+
+.skills_details{
+    text-align: justify;
+}
